@@ -1,0 +1,9 @@
+#SOS Morse
+
+mensagem = input()
+Cód = '...---..'
+
+if Cód in mensagem:
+ print('S')
+else:
+  print('N')
